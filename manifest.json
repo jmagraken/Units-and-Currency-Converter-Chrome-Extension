@@ -1,0 +1,28 @@
+{
+    "manifest_version": 2,
+    "name": "Units and Currency Converter",
+    "description": "Convert between imperial and metric units and global currencies",
+    "version": "1.0",
+    "icons": {
+        "16": "16.png",
+        "48": "48.png",
+        "128": "128.png"
+
+    },
+    "browser_action": {
+        "default_popup": "popup.html"
+    },
+
+
+    "content_scripts": [
+        {
+        "matches": ["http://*/*", "https://*/*"],
+        "js": ["background.js"]
+        }
+    ]
+
+    
+
+
+
+}
