@@ -9,3 +9,5 @@ Extension will automatically convert into analogous units from opposite system (
 User may input measurement in a variety of formats (e.g. "12kg", "12 kg", "12 kilograms").
 
 Currency exchange rates are retrieved using an API by APILayer. 
+
+TO TEST EXTENSION, CLONE REPOSITORY AND OPEN "popup.html".
