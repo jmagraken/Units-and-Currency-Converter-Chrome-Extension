@@ -10,4 +10,4 @@ User may input measurement in a variety of formats (e.g. "12kg", "12 kg", "12 ki
 
 Currency exchange rates are retrieved using an API by APILayer. 
 
-### To try extension, clone resository and open "popup.html".
+### To try extension, clone repository and open "popup.html".
